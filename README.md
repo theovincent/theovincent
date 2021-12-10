@@ -3,7 +3,7 @@
 ## I'm a student in his last year of master. This is a brief recap of my past:
 
 - 🔍 ENS Paris-Saclay, MVA - Second year of master (6th year after high school)
-- 🔬 Harvard Medical School - Internship in Machine Learning applied to biostitistics. (5th year after high school - duration 8 months)
+- 🔬 Harvard Medical School - Internship in Machine Learning applied to biostatistics. (5th year after high school - duration 8 months)
 - ⚽ Signality - Internship in Deep Learning and Computer Vision applied to football. (5th year after high school - duration 5 months)
 - 🏊 EDF Lab Chatou - Internship in Deep Learning and Computer Vision to swimming. (5th year after high school - duration 4 months)
 - 🎓 Ecole des Ponts ParisTech - 1st year / 2nd year in Mathematics and Informatics. (3rd and 4th year after high school)
