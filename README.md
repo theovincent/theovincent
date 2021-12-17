@@ -20,7 +20,7 @@ You can find my CV [here][CV].
 <br />
 <br />
 
-[CV]: https://www.linkedin.com/in/theo-vincent/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACrS0S0B0TU-lNFxIMlJ8TlY5CN1G7_0X2M,1635476067067)/
+[CV]: https://drive.google.com/file/d/1li52OxpIT29MPOQz1Lm-QZRRJn6bWZaE/view?usp=sharing
 [LinkedIn]: https://www.linkedin.com/in/theo-vincent/
 [GoogleScolar]: https://scholar.google.com/citations?user=nZPOL4wAAAAJ&hl=en&oi=ao
 [StackOverFlow]: https://stats.stackexchange.com/users/325933/th%c3%a9o-vincent
