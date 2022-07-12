@@ -2,12 +2,13 @@
 
 ## I'm a student in his last year of master. This is a brief recap of my past:
 
-- 🔍 [ENS Paris-Saclay, MVA](https://www.master-mva.com/) - Second year of master (6th year after high school)
-- 🔬 [Harvard Medical School](https://www.chiragjpgroup.org/) - Internship in Machine Learning applied to biostatistics. (5th year after high school - duration 8 months)
-- ⚽ [Signality](https://www.signality.com/) - Internship in Deep Learning and Computer Vision applied to football. (5th year after high school - duration 5 months)
-- 🏊 [EDF Lab Chatou](https://www.saint-venant-lab.fr/) - Internship in Deep Learning and Computer Vision to swimming. (5th year after high school - duration 4 months)
-- 🎓 [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/en) - 1st year / 2nd year in Mathematics and Informatics. (3rd and 4th year after high school)
-- 📚 [Preparatory school](https://lyceeduparc.fr/ldp/rubrique1.html): Lycée du Parc - MPSI / MP*. (1st and 2nd year after high school)
+- <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png?v8" /> [TU Darmstadt, IAS](https://www.ias.informatik.tu-darmstadt.de/) Internship in Reinforcement Learning. (Master Thesis - duration 6 months)
+- <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png?v8" /> [ENS Paris-Saclay, MVA](https://www.master-mva.com/) - Second year of master (2nd year of Master)
+- <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png?v8" /> [Harvard Medical School](https://www.chiragjpgroup.org/) - Internship in Machine Learning applied to biostatistics. (Gap year - duration 8 months)
+- <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/26bd.png?v8" /> [Signality](https://www.signality.com/) - Internship in Deep Learning and Computer Vision applied to football. (Gap year - duration 5 months)
+- <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ca.png?v8" /> [EDF Lab Chatou](https://www.saint-venant-lab.fr/) - Internship in Deep Learning and Computer Vision to swimming. (Gap year - duration 4 months)
+- <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png?v8" /> [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr/en) - Department of Mathematics and Informatics. (3rd year of Bachelor and 1st year of Master)
+- <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8" /> [Lycée du Parc](https://lyceeduparc.fr/ldp/rubrique1.html): Preparatory school - MPSI / MP*. (1st and 2nd year of Bachelor)
 
 You can find my CV [here][CV].
 
