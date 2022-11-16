@@ -3,7 +3,7 @@
 ## I'm a PhD student at [IAS TU Darmstadt](https://www.ias.informatik.tu-darmstadt.de/Team/TheoVincent) since December 2022 focusing on Reinforcement Learning. This is a brief recap of my past:
 
 - <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png?v8" /> [TU Darmstadt, IAS](https://www.ias.informatik.tu-darmstadt.de/) Master thesis on Reinforcement Learning for value-based methods. (duration: 6 months)
-- <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png?v8" /> [ENS Paris-Saclay, MVA](https://www.master-mva.com/) - Second year of master focusing on AI (duration: 1 year)
+- <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png?v8" /> [ENS Paris-Saclay, MVA](https://www.master-mva.com/) - Second year of master focusing on AI. (duration: 1 year)
 - <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png?v8" /> [Harvard Medical School](https://www.chiragjpgroup.org/) - Research on Machine Learning applied to biostatistics. (duration: 8 months)
 - <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/26bd.png?v8" /> [Signality](https://www.signality.com/) - Research on Deep Learning and Computer Vision applied to football. (duration: 5 months)
 - <img width="22px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ca.png?v8" /> [EDF Lab Chatou](https://www.saint-venant-lab.fr/) - Research on Deep Learning and Computer Vision applied to swimming. (duration: 4 months)
