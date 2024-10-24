@@ -17,13 +17,15 @@ You can find my CV [here][CV].
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][LinkedIn]
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/512px-Google_Scholar_logo.svg.png" />][GoogleScolar]
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png" />][StackOverFlow]
-[<img src="https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white&link&fbclid=IwAR0WmXs7mnPRkIyDJM2sTmwz549ynOQABq5yZa2UnlxCpOKL-awG3Jkh_Ew&link=mailto:theo.vincent@eleves.enpc.fr" />][Mail]
+[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/X_logo_twitter_new_brand_icon.svg/640px-X_logo_twitter_new_brand_icon.svg.png" />][X]
+[<img src="https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white&link&fbclid=IwAR0WmXs7mnPRkIyDJM2sTmwz549ynOQABq5yZa2UnlxCpOKL-awG3Jkh_Ew&link=mailto:theovincentjourdat@gmail.com" />][Mail]
 
 <br />
 <br />
 
-[CV]: https://drive.google.com/file/d/10fUhQupYEeor0l4AzAkdXt199UmmNkEI/view?usp=sharing
+[CV]: https://drive.google.com/file/d/1X9R7OQyBba-Wkgh70IWAMUQU8wsBuw4A/view?usp=sharing
 [LinkedIn]: https://www.linkedin.com/in/theo-vincent/
 [GoogleScolar]: https://scholar.google.com/citations?user=nZPOL4wAAAAJ&hl=en&oi=ao
 [StackOverFlow]: https://stats.stackexchange.com/users/325933/th%c3%a9o-vincent
-[Mail]: mailto:vincent@robot-learning.de
+[X]: https://x.com/Theo_Vincent_
+[Mail]: mailto:theovincentjourdat@gmail.com
